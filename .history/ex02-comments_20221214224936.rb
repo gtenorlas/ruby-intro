@@ -16,4 +16,4 @@ The =begin and =end must be at the beginning of the line or
 it will be a syntax error.
 =end
 
-puts "after blocked comments"
+p
